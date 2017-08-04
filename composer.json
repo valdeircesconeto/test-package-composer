@@ -1,5 +1,5 @@
 {
-  "name":"valdeir son/composer",
+  "name":"valdeir-son/composer",
   "description":"Package Test",
   "require":{
     "php":">=5.4",
